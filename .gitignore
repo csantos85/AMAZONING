@@ -1,0 +1,11 @@
+# Editor/OS
+.DS_Store
+Thumbs.db
+.vscode/
+# Godot, se adotado futuramente
+.godot/
+# Python/utilidades
+__pycache__/
+*.pyc
+# Arquivos temporários
+*.tmp
