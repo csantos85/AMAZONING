@@ -22,6 +22,13 @@ A ficha familiar `docs/characters/familia-de-jeff.md` não fornece fichas visuai
 
 ## Registro de futuras versões
 
+### Estudos candidatos de Jeff
+
+| Arquivo | Status | Fonte e escopo | Aprovação |
+|---|---|---|---|
+| `assets/concept-art/jeff/jeff-estudo-anatomico.png` | CANDIDATA — NÃO APROVADA; máscara divergente apontada pelo criador | Estudo estrutural anterior; não usar como referência de identidade | Não recebida |
+| `assets/concept-art/jeff/jeff_estudo_movimento_v02_candidata.png` | CANDIDATA — NÃO APROVADA | Nova proposta de esquiva e avanço a partir da mestra v2; máscara melhorada, equivalência integral não demonstrada. Ver relatório `jeff/jeff_estudo_movimento_v02_revisao.md` | Não recebida; não substitui a mestra nem apaga a candidata anterior |
+
 Adicionar entradas distintas sem apagar o histórico. Para cada entrada, registrar personagem/variante, caminho, identificador, status, disponibilidade, fonte e data da aprovação, escopo, predecessora e motivo da substituição. Datas desconhecidas permanecem “não informadas”. Imagens geradas começam como **CANDIDATA — NÃO APROVADA**; a mudança de status depende de decisão explícita do criador.
 
 ## Pendências operacionais

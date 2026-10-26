@@ -23,7 +23,9 @@ Em caso de conflito, sinalize e peça decisão. Nunca sobrescreva silenciosament
 - Evite tratar hipóteses de religião/antiguidade como afirmações históricas reais; são ficção deste universo.
 
 ## Skills
-`.agents/skills/amazoning-characters`, `amazoning-narrative`, `amazoning-lore`, `amazoning-art-direction`, `amazoning-gameplay`.
+`.agents/skills/amazoning-characters`, `amazoning-narrative`, `amazoning-lore`, `amazoning-art-direction`, `amazoning-gameplay`, `amazoning-motion-studies`.
+
+Para poses, movimento e estudos anatômicos em perspectiva, aplique `amazoning-motion-studies` junto de `amazoning-art-direction`. Referências de movimento não substituem a identidade visual aprovada; confira especialmente máscara e figurino antes da entrega.
 
 ## Fechamento de tarefas
 Resuma arquivos modificados, fontes canônicas consultadas, fatos preservados e questões pendentes.
