@@ -11,6 +11,22 @@ Leia `AGENTS.md`, a skill `amazoning-art-direction`, a ficha do personagem, o re
 
 Uma skill orienta a geração e a inspeção, mas não garante fidelidade automática. Uma geração bonita com máscara ou figurino divergente falha na revisão.
 
+## Preservação integral obrigatória
+
+Requisito explícito do criador: diferenças físicas entre versões não são aceitáveis. Este requisito prevalece sobre os procedimentos exploratórios abaixo. Não apresentar geração livre, mesmo condicionada por referência ou seed, como solução determinística de identidade. Não entregar uma versão divergente como cumprimento do pedido, nem contornar a exigência chamando-a apenas de candidata. Estudos anteriores com divergências são histórico, não fontes de anatomia.
+
+Escolha o procedimento conforme o resultado necessário:
+
+1. **Mesma pose da imagem-base:** preservar a imagem original intacta e adicionar construção em camada separada, sem regenerar, retocar, deformar ou recolorir o personagem. Guardar o original e seu hash. Verificar que a camada do personagem contém os mesmos pixels antes da composição. As linhas estruturais são interpretações didáticas e não revelam medidas ocultas reais. Não alegar identidade de pixels da composição final quando houver linhas por cima; a identidade se refere à camada original preservada.
+2. **Nova pose ou câmera:** exigir um ativo mestre articulável aprovado (modelo/rig 3D ou rig 2D dentro dos ângulos documentados). A imagem-base isolada não determina anatomia, medidas, profundidade ou superfícies ocultas de forma única. Sem esse ativo, preparar especificação e estudos de manequim independentes, mas não gerar novas versões finais do personagem sob promessa de preservação integral.
+3. **Construção do ativo mestre:** é uma etapa de interpretação e aprovação, não reprodução automática garantida. Documentar vistas e dimensões ainda desconhecidas; obter decisões para as lacunas antes de considerá-las oficiais. Um rig 2D não autoriza inventar ângulos fora de seu escopo aprovado.
+
+Para um ativo aprovado, fixar versão e hashes de malha, topologia, proporções, materiais/texturas, máscara, cabelo, figurino e rig. Permitir somente poses/câmeras e deformações previstas pelo rig; impedir edição de forma, escalas ósseas e morphs de identidade. Registrar unidades, comprimentos ósseos, escala, parâmetros de deformação, câmera, iluminação, motor, versões e configurações de render. Comparar hashes e parâmetros com a linha de base; alterações de pose previstas são declaradas separadamente dos dados imutáveis. Validar deformações em poses extremas, inclusive volume, articulações e relações faciais, com tolerâncias documentadas e aprovadas, sem inventar limites para fazer passar.
+
+Repetibilidade de render deve ser testada no ambiente fixado; não presumir equivalência bit a bit entre plataformas, versões ou dispositivos. Mesmo render repetível não prova por si só equivalência anatômica com uma imagem 2D. Seed fixa não transforma geração livre em geometria fixa.
+
+Estados de revisão: `BLOQUEADO — SEM ATIVO MESTRE`, `REPROVADO — DIVERGÊNCIA` ou `VALIDADO NO ESCOPO DOCUMENTADO`. A validação exige evidência e escopo explícitos; itens não verificáveis impedem uma alegação de preservação integral. Não gerar repetidamente tentando obter por acaso uma garantia que a ferramenta não oferece.
+
 ## Separe identidade de movimento
 
 - Identidade: referência aprovada do personagem e ficha; determina rosto, cabelo, máscara, silhueta, paleta e peças do traje.
@@ -48,7 +64,7 @@ Se apresentar versão vestida e manequim correspondente, compare a mesma pose, c
 1. Use a imagem-mestra disponível como referência visual da ferramenta. Descreva as referências de movimento separadamente. Para corrigir arte existente, forneça também a candidata defeituosa quando disponível e diga quais regiões corrigir.
 2. Trabalhe primeiro com uma pose legível e um detalhe de rosto/máscara. Expanda somente após revisar os atributos de identidade.
 3. Abra a saída e compare lado a lado com a imagem-mestra. Preencha os sete grupos e a conferência da máscara com `conforme`, `divergente` ou `não verificável`. Não chame um item de conforme apenas porque estava no prompt.
-4. Se houver divergência visível, faça uma edição localizada preservando as regiões corretas. Reabra e revise o resultado. Se a correção continuar falhando, registre a limitação e entregue apenas como estudo com divergências; não declare preservação integral.
+4. Se houver divergência visível, reprove a saída. No requisito de preservação integral, não usar novas tentativas de geração livre como substituto do ativo mestre. Edições exploratórias só se aplicam quando o usuário autorizar explicitamente estudos com variação; nunca validam identidade integral.
 5. Não prometa equivalência exata de pixels em uma pose nova gerada. Preserve o design verificável e sinalize detalhes pequenos que não possam ser conferidos na resolução disponível.
 
 ## Arquivos e entrega

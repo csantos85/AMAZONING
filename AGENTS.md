@@ -27,5 +27,7 @@ Em caso de conflito, sinalize e peça decisão. Nunca sobrescreva silenciosament
 
 Para poses, movimento e estudos anatômicos em perspectiva, aplique `amazoning-motion-studies` junto de `amazoning-art-direction`. Referências de movimento não substituem a identidade visual aprovada; confira especialmente máscara e figurino antes da entrega.
 
+O criador exige preservação integral da identidade física entre versões. Geração livre não pode ser apresentada como determinística. Na mesma pose, preserve a imagem-base intacta em camada separada; em novas poses, exija ativo mestre articulável aprovado e validado. Sem esse ativo, não entregue novas versões geradas como cumprimento da preservação integral; prepare as especificações e registre o bloqueio.
+
 ## Fechamento de tarefas
 Resuma arquivos modificados, fontes canônicas consultadas, fatos preservados e questões pendentes.

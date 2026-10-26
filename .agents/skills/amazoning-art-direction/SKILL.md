@@ -5,6 +5,10 @@ description: Use quando preparar descrições visuais, criar pranchas, preservar
 
 # Preservação visual e direção de arte
 
+## Requisito de identidade integral entre versões
+
+O criador exige que versões não apresentem diferenças físicas. Para poses e construção, aplique a seção **Preservação integral obrigatória** de `../amazoning-motion-studies/SKILL.md`: preservar pixels originais em estudos da mesma pose; para novas poses, usar ativo articulável mestre aprovado e controle de versões. Geração livre não oferece essa garantia. Saídas divergentes ou com identidade não verificável não atendem ao requisito, mesmo com status de candidata. Não declarar fidelidade integral por inspeção aproximada. Esta regra prevalece sobre os procedimentos de geração exploratória deste documento.
+
 Todos os caminhos são relativos à raiz do repositório AMAZONING. Leia `AGENTS.md` e respeite sua ordem de autoridade. Esta Skill define o processo; não altera características canônicas.
 
 ## Identidade visual oficial
