@@ -26,6 +26,7 @@ A ficha familiar `docs/characters/familia-de-jeff.md` não fornece fichas visuai
 
 | Arquivo | Status | Fonte e escopo | Aprovação |
 |---|---|---|---|
+| `assets/concept-art/lucas/lucas_casual_v02_candidata.png` | CANDIDATA — NÃO APROVADA; não validada para identidade integral | Variante casual solicitada a partir da mestra do uniforme; roupa segue ficha civil, anatomia reinterpretada pela geração. Ver `lucas/lucas_casual_v02_revisao.md` | Não recebida; preserva a referência casual anterior e não designa mestra civil |
 | `assets/concept-art/lucas/lucas_estudo_movimento_v01_candidata.png` | CANDIDATA — NÃO APROVADA | Esquiva/pivô e construção a partir da mestra do uniforme DEC-013; detalhes finos e anatomia da mão pequena não verificados integralmente. Ver `lucas/lucas_estudo_movimento_v01_revisao.md` | Não recebida; não substitui a mestra |
 
 ### Estudos candidatos de Jeff
