@@ -3,7 +3,7 @@
 - [x] Estruturar repositório e instruções.
 - [x] Consolidar cânone conhecido de Lucas/Jeff e universo.
 - [x] Criar Skills locais com instruções procedimentais.
-- [ ] Revisar, com o criador, as artes aprovadas e atribuir uma imagem-mestra a cada personagem.
+- [ ] Concluir revisão das variantes: Jeff e uniforme de Lucas possuem mestras designadas (DEC-007/013); civil de Lucas permanece pendente.
 - [ ] Decidir nome do país, cidade e história política.
 - [ ] Aprovar biografias, famílias e a cena do primeiro encontro na escola.
 - [ ] Definir origem e limites dos poderes.

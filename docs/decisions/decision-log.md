@@ -22,6 +22,10 @@ Os IDs são identificadores documentais estáveis, não uma sequência cronológ
 | DEC-011 | CANON | 25/10/2026 | O pai de Jeff conhece parte importante da história oculta dos super-humanos. Não define acesso, operações ou vínculo com Lucas. | Nenhuma substituição documentada. |
 | DEC-012 | CANON — identidade visual | 25/10/2026 | Por designação explícita do criador, `assets/branding/amazoning_logo_oficial.png` é o logotipo oficial do universo AMAZONING, para artbooks, documentos, apresentações e materiais promocionais. Preservar tipografia, proporções, formas das letras e detalhe vermelho do A. Arquivo recuperado de `origin/main` e examinado visualmente; aplicação a novos materiais ainda não realizada. Guia: `assets/branding/README.md`. | Nenhuma substituição documentada; logos em pranchas não são alternativas oficiais. |
 
+## DEC-013 — imagem-mestra do uniforme de Lucas
+
+**CANON — designação de referência; data individual não informada.** O criador confirmou explicitamente nesta conversa: “Sim, usar essa imagem como mestra do uniforme”, em resposta à designação de `assets/concept-art/lucas/mazweng_conceito_de_personagem.png`, incluindo máscara e figurino, para este estudo. Não altera a ficha, não designa a imagem civil e não aprova resultados gerados.
+
 DEC-004 foi reafirmada explicitamente pelo criador em 25/10/2026: Lucas e Jeff são melhores amigos, conheceram-se na escola e têm origens sociais diferentes. DEC-006 e DEC-007 permanecem vigentes; esta atualização não altera o cânone visual dos protagonistas.
 
 ## PROPOSTAS — não foram aprovadas

@@ -26,3 +26,7 @@ Anime/mangá moderno, traço denso/texturizado, cel-shading, urbano/tático; cen
 
 ## Não canonizar ainda
 Idade exata; profissão; condições econômicas específicas; profissão/segredos exatos dos pais; conjunto definido de poderes; eventos de despertar.
+
+## Referência visual do uniforme
+
+Por confirmação explícita do criador (DEC-013), `assets/concept-art/lucas/mazweng_conceito_de_personagem.png` é a imagem-mestra do uniforme, incluindo máscara e figurino, para os estudos de movimento. Arquivo disponível e examinado. A ficha continua prevalecendo; esta designação não aprova a variante civil, poderes, idade/altura ou novas candidatas.
