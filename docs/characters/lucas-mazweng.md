@@ -17,6 +17,10 @@ Vermelho `#8B1E1E`, vinho `#5A1A1A`, preto `#1E1E1E`, grafite `#5A5A5A`, cinza `
 ## Personalidade e relações
 Reservado, observador, silencioso, vigilante urbano contra abusos. Melhor amigo de Jeff/A Brasa; conheceram-se na escola e têm origens sociais diferentes. Ligado a legado familiar ancestral — detalhes PENDENTES.
 
+## Relação com a família de Jeff — PENDENTE
+
+A influência política da família de Jeff e o conhecimento de seu pai sobre a história oculta dos super-humanos não estabelecem vínculo com a linhagem de Lucas. Esse vínculo permanece **PENDENTE**, conforme `docs/characters/familia-de-jeff.md` e PEND-011 em `docs/decisions/decision-log.md`. A amizade com Jeff, o encontro na escola e as origens sociais diferentes permanecem canônicos; a condição econômica específica de Lucas continua indefinida.
+
 ## Visual
 Anime/mangá moderno, traço denso/texturizado, cel-shading, urbano/tático; cenários dessaturados, vermelho como acento.
 

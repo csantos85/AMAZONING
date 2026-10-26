@@ -5,8 +5,10 @@ description: Use quando explorar história, religião fictícia, origem dos pode
 
 # Construção e auditoria de lore
 
+Todos os caminhos abaixo são relativos à raiz do repositório AMAZONING, não ao diretório desta Skill. Leia `AGENTS.md` antes de aplicar o procedimento e respeite sua ordem de autoridade.
+
 ## Procedimento
-1. Consulte a Bíblia e registro de decisões.
+1. Consulte `docs/universe/narrative-bible.md`, `docs/decisions/decision-log.md`, `docs/universe/timeline.md` e `docs/factions/README.md`.
 2. Identifique premissas confirmadas.
 3. Sugira alternativas concorrentes para pontos indefinidos.
 4. Cheque contradições de cronologia e causalidade.

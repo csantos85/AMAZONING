@@ -14,3 +14,9 @@ As imagens em `assets/concept-art/` são referências oriundas das iterações a
 
 ## Próxima entrega
 Aprovar a origem social específica das famílias, a cidade/país, a origem dos poderes e o roteiro escolar proposto. Nenhum desses detalhes foi elevado ao cânone sem decisão expressa.
+
+## Identidade visual
+
+Consulte [o guia de identidade visual](assets/branding/README.md) antes de preparar artbooks, documentos, apresentações ou materiais promocionais. O arquivo oficial é `assets/branding/amazoning_logo_oficial.png`; preserve tipografia, proporções, formas das letras e o detalhe vermelho do A. A disponibilidade do original está registrada no guia.
+
+Para preservar os personagens, consulte [o inventário de imagens-mestras](assets/concept-art/master-inventory.md) e a Skill `.agents/skills/amazoning-art-direction/SKILL.md`.

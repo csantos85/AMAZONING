@@ -22,11 +22,29 @@ Base preto `#1E1E1E`, grafite `#5A5A5A`; azul fogo `#3A7FD0`; azul-marinho e azu
 ## Personalidade e laços
 Impulsivo, leal, intenso, protetor, senso de justiça. Melhor amigo de Lucas/Mazweng e equilíbrio emocional de Lucas. Conheceram-se na escola, com origens sociais diferentes.
 
+## Família — CANON
+
+A família de Jeff possui influência política relevante no país fictício. Seu pai é **senador e ex-governador**; sua mãe é **jurista e ex-secretária de Justiça**. O pai conhece parte importante da história oculta dos super-humanos (DEC-008 a DEC-011).
+
+Isso não estabelece como o pai obteve esse conhecimento, nem que a mãe ou Jeff compartilhem dele. Consulte `docs/characters/familia-de-jeff.md` para a separação entre fatos, propostas e pendências.
+
+**PROPOSTA:** nomes Augusto e Helena Montenegro, sobrenome de Jeff, biografias, dinâmica familiar e cenas sugeridas. Não incorporar esses elementos à identificação oficial de Jeff sem aprovação.
+
+**PENDENTE:** Projeto Véu, modo de acesso aos segredos, operações governamentais e vínculo com a linhagem de Lucas.
+
 ## Poderes
 Manipulação de fogo; Explosão Térmica (calor em área para incapacitar adversários); Blue Fire (chamas azuis de altíssima temperatura, mais poder e resistência). Custos/limites exatos PENDENTES.
 
 ## Linguagem artística
 Anime/mangá moderno, traço limpo, cel-shading, estética urbana/techwear.
 
+## Referência visual principal
+
+Por decisão explícita do criador (DEC-007, em `docs/decisions/decision-log.md`), a referência visual principal é `assets/concept-art/jeff/jeff_a_brasa_prancha_v2_loiro.png`.
+
+**Disponibilidade: arquivo ausente no checkout no momento deste registro; comparação visual PENDENTE.** A designação não permite inferir características que não estejam documentadas. Permanecem cabelo loiro, olhos castanho-escuros, pele oliva, identidade azul/preto e transformação Blue Fire, além dos demais detalhes já aprovados nesta ficha. Nenhum outro detalhe físico ou de figurino foi alterado. Eventuais divergências da v2 devem ser sinalizadas ao criador antes de alterar esta ficha.
+
 ## Nota de revisão de referência
 Pranchas antigas podem mostrar cabelo preto/ruivo e vermelho. **Não seguir esses traços.** A versão aprovada mais recente é loira e azulada; a ficha textual prevalece em conflitos.
+
+A prancha `assets/concept-art/jeff/jeff_a_brasa_referencia_mais_recente.png` está **SUPERADA** como referência de produção e deve ser preservada apenas para histórico. Consulte o inventário em `assets/concept-art/README.md`.
