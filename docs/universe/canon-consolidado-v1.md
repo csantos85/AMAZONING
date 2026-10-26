@@ -26,7 +26,7 @@ A família de Jeff tem influência política relevante. O pai é **senador e ex-
 
 A prancha conceitual do pai de Jeff e a prancha coletiva de proporções foram aprovadas pelo criador. Seus arquivos e caminhos definitivos devem ser inventariados no repositório; a aprovação de conceito **não determina medidas numéricas não documentadas**.
 
-**Detalhes específicos mantidos abertos mesmo com a aprovação geral:** sobrenome Montenegro e prenomes Augusto/Helena ainda não receberam confirmação inequívoca como nomes finais; datas, idades dos pais, partido, trajetória política detalhada, projetos sigilosos, origem do conhecimento do pai e conexão com a família de Lucas.
+**Nomes CANON aprovados pelo criador:** Jeff Montenegro, Augusto Montenegro (pai) e Helena Montenegro (mãe). Continuam em aberto: datas, idades dos pais, partido, trajetória política detalhada, projetos sigilosos, origem do conhecimento do pai e conexão com a família de Lucas.
 
 ## 5. Relação e começo da história
 A amizade escolar e a diferença de origens são CANON. Foram desenvolvidas cenas-base de abertura escolar, convivência na cidade, tensão entre Jeff e o pai, uma possível discussão à mesa de jantar e o primeiro contato com indícios do extraordinário. São **material narrativo de referência aprovado para desenvolvimento**, não texto final obrigatório de cenas ou diálogos. A idade de 14 anos no primeiro encontro, a bolsa de Lucas e o episódio de provocação escolar continuam elementos ajustáveis, sem datação canônica.
@@ -45,7 +45,7 @@ A identidade do pai de Jeff não deve importar automaticamente para o cânone se
 - Entidade/linhagem de Lucas, origem dos poderes de Jeff e seus limites.
 - Modo como o pai de Jeff acessou os segredos; eventual programa governamental “Projeto Véu” não confirmado.
 - Antagonistas, facções, parentes de Lucas, mecanismo do colapso e missões finais.
-- Nomes civis definitivos dos pais de Jeff e detalhes biográficos adicionais.
+- Detalhes biográficos adicionais ainda não desenvolvidos e outros nomes de personagens futuros.
 
 ## 8. Regras de continuidade
 1. Usar `docs/decisions/decision-log.md` e fichas de personagens como fontes de autoridade.
