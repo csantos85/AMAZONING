@@ -5,7 +5,7 @@
 ## CANON — fatos aprovados
 
 - A família de Jeff possui influência política relevante no país fictício.
-- Pai de Jeff: **Augusto Montenegro**, senador e ex-governador. Nome aprovado pelo criador em 26/10/2026 (DEC-014).
+- Pai de Jeff: **Augusto Montenegro**, senador e ex-governador. Nome aprovado pelo criador em 26/10/2026 (DEC-016); rosto, cabelo e traje do retrato scratch art aprovados em DEC-017. Ficha visual: `docs/characters/augusto-montenegro.md`.
 - Mãe de Jeff: jurista e ex-secretária de Justiça.
 - O pai conhece parte importante da história oculta dos super-humanos.
 - Lucas e Jeff são melhores amigos, conheceram-se na escola e têm origens sociais diferentes (DEC-004, reafirmada pelo criador).
@@ -14,7 +14,7 @@ Os cargos não definem, por inferência, renda ou classe econômica específica,
 
 ## PROPOSTA — não aprovada
 
-- Nome **Helena Montenegro** para a mãe e sobrenome de Jeff. **Augusto Montenegro** foi aprovado apenas para o pai (DEC-014); isso não aprova automaticamente os nomes dos demais familiares.
+- Nome **Helena Montenegro** para a mãe e sobrenome de Jeff. **Augusto Montenegro** foi aprovado apenas para o pai (DEC-016); isso não aprova automaticamente os nomes dos demais familiares.
 - Biografias, dinâmica familiar e cenas sugeridas.
 
 Esses elementos não identificam oficialmente os personagens. Detalhes de biografias ou cenas não fornecidos nesta decisão não são reconstruídos nem inventados aqui. As propostas anteriores de classes sociais, escola e atividades econômicas continuam propostas (PROP-001 a PROP-004).

@@ -1,6 +1,8 @@
 # Pai de Jeff — Scratch Art v01
 
-**CANDIDATA — NÃO APROVADA. Não é reprodução anatômica determinística.**
+**STATUS ATUAL: APROVADA como referência oficial de rosto, cabelo e traje (DEC-017, 26/10/2026). Não é reprodução anatômica determinística.**
+
+As observações abaixo registram a revisão anterior à aprovação; sua condição histórica de candidata não é o status atual.
 
 Arquivo: `pai_jeff_scratch_art_v01_candidata.png`.
 
@@ -24,4 +26,8 @@ Resultado aberto pela ferramenta e examinado. A aparência lida da referência �
 
 ## Atualização documental — 26/10/2026
 
-O criador aprovou **Augusto Montenegro** como nome do pai de Jeff (DEC-014). A observação acima sobre nome indefinido descreve o estado no momento da geração. A aprovação do nome não aprova este retrato nem modifica seus limites de fidelidade.
+O criador aprovou **Augusto Montenegro** como nome do pai de Jeff (DEC-016). A observação acima sobre nome indefinido descreve o estado no momento da geração. A aprovação do nome não aprova este retrato nem modifica seus limites de fidelidade.
+
+## Aprovação — 26/10/2026
+
+O criador confirmou este retrato como referência oficial do rosto, cabelo e traje de Augusto (DEC-017). Não aprova vistas ocultas, medidas ou novas poses. Arquivo preservado sem alterações e sem renomear. SHA-256: `9d671db4633a856495839debaec84685f2c70dc45c2e6201870924a6dea2cde8`. As limitações técnicas de reprodução permanecem.

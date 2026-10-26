@@ -24,11 +24,11 @@ Impulsivo, leal, intenso, protetor, senso de justiça. Melhor amigo de Lucas/Maz
 
 ## Família — CANON
 
-A família de Jeff possui influência política relevante no país fictício. Seu pai, **Augusto Montenegro** (DEC-014), é **senador e ex-governador**; sua mãe é **jurista e ex-secretária de Justiça**. O pai conhece parte importante da história oculta dos super-humanos (DEC-008 a DEC-011).
+A família de Jeff possui influência política relevante no país fictício. Seu pai, **Augusto Montenegro** (DEC-016), é **senador e ex-governador**; sua mãe é **jurista e ex-secretária de Justiça**. O pai conhece parte importante da história oculta dos super-humanos (DEC-008 a DEC-011).
 
 Isso não estabelece como o pai obteve esse conhecimento, nem que a mãe ou Jeff compartilhem dele. Consulte `docs/characters/familia-de-jeff.md` para a separação entre fatos, propostas e pendências.
 
-**PROPOSTA:** nome Helena Montenegro para a mãe, sobrenome de Jeff, biografias, dinâmica familiar e cenas sugeridas. O nome Augusto Montenegro está aprovado apenas para o pai (DEC-014). Não incorporar esses elementos à identificação oficial de Jeff sem aprovação.
+**PROPOSTA:** nome Helena Montenegro para a mãe, sobrenome de Jeff, biografias, dinâmica familiar e cenas sugeridas. O nome Augusto Montenegro está aprovado apenas para o pai (DEC-016). Não incorporar esses elementos à identificação oficial de Jeff sem aprovação.
 
 **PENDENTE:** Projeto Véu, modo de acesso aos segredos, operações governamentais e vínculo com a linhagem de Lucas.
 

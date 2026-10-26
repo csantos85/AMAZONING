@@ -9,7 +9,9 @@ Todos os caminhos são relativos à raiz do repositório AMAZONING. Este invent�
 | Jeff / A Brasa | `docs/characters/jeff-a-brasa.md` | `assets/concept-art/jeff/jeff_a_brasa_prancha_v2_loiro.png` — v2 | Designada referência visual principal pelo criador em 25/10/2026; DEC-007. | **DISPONÍVEL**, sincronizado de `origin/main`. | Designação confirmada; exame visual realizado. Preservar a ficha. A designação não resolve modelo casual ou hexadecimais ainda pendentes. |
 | Lucas / Mazweng | `docs/characters/lucas-mazweng.md` | `assets/concept-art/lucas/mazweng_conceito_de_personagem.png` | Designação explícita do criador nesta conversa; DEC-013. | **DISPONÍVEL**, aberta e examinada. | Imagem-mestra do uniforme, incluindo máscara e figurino, para estudos de movimento. Civil e novas candidatas não estão aprovados por esta designação. |
 
-A ficha familiar `docs/characters/familia-de-jeff.md` não fornece fichas visuais individuais dos pais. O criador forneceu e autorizou nesta conversa o painel “Pai de Jeff” de uma prancha coletiva como referência para o retrato scratch art. O anexo original ainda não tem cópia local disponível nesta execução; não há designação de ativo mestre reproduzível. Isso não autoriza inferir nome, idade exata ou biografia. A mãe permanece sem referência visual designada.
+| Augusto Montenegro | `docs/characters/augusto-montenegro.md` | `assets/concept-art/pai-de-jeff/pai_jeff_scratch_art_v01_candidata.png` — v01 | Aprovação explícita do criador em 26/10/2026; DEC-017. | **DISPONÍVEL**, aberta e examinada. | Rosto, cabelo e traje no enquadramento mostrado; medidas, corpo inteiro e vistas ocultas não aprovados. Nome do arquivo preservado por histórico. |
+
+Augusto possui ficha visual e retrato oficial no escopo de DEC-017. O painel coletivo enviado na conversa permanece referência de origem, com aprovação conceitual registrada em DEC-015; sua cópia local ainda não está disponível. A mãe permanece sem referência visual designada.
 
 ## Histórico de versões e substituições
 
@@ -22,11 +24,11 @@ A ficha familiar `docs/characters/familia-de-jeff.md` não fornece fichas visuai
 
 ## Registro de futuras versões
 
-### Estudos candidatos do pai de Jeff
+### Histórico visual de Augusto Montenegro
 
 | Arquivo | Status | Fonte e escopo | Aprovação |
 |---|---|---|---|
-| `assets/concept-art/pai-de-jeff/pai_jeff_scratch_art_v01_candidata.png` | CANDIDATA — NÃO APROVADA | Retrato baseado no painel do pai autorizado pelo criador na conversa; tradução para scratch art, sem validação de identidade integral. Ver relatório na mesma pasta | Não recebida; não designa nova mestra |
+| `assets/concept-art/pai-de-jeff/pai_jeff_scratch_art_v01_candidata.png` | APROVADA — REFERÊNCIA OFICIAL no escopo documentado | Retrato scratch art; rosto, cabelo e traje mostrados. Não substitui nem reprova o conceito coletivo DEC-015; não valida reprodução determinística | Criador, 26/10/2026, DEC-017. Antigo status de candidata preservado no relatório histórico |
 
 ### Estudos candidatos de Lucas
 

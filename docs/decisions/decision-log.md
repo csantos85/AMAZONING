@@ -22,7 +22,7 @@ Os IDs são identificadores documentais estáveis, não uma sequência cronológ
 | DEC-011 | CANON | 25/10/2026 | O pai de Jeff conhece parte importante da história oculta dos super-humanos. Não define acesso, operações ou vínculo com Lucas. | Nenhuma substituição documentada. |
 | DEC-012 | CANON — identidade visual | 25/10/2026 | Por designação explícita do criador, `assets/branding/amazoning_logo_oficial.png` é o logotipo oficial do universo AMAZONING, para artbooks, documentos, apresentações e materiais promocionais. Preservar tipografia, proporções, formas das letras e detalhe vermelho do A. Arquivo recuperado de `origin/main` e examinado visualmente; aplicação a novos materiais ainda não realizada. Guia: `assets/branding/README.md`. | Nenhuma substituição documentada; logos em pranchas não são alternativas oficiais. |
 
-## DEC-014 — nome do pai de Jeff
+## DEC-016 — nome do pai de Jeff
 
 **CANON — 26/10/2026.** Por instrução explícita do criador nesta conversa, o nome do pai de Jeff é **Augusto Montenegro**. Aprova a parte correspondente de PROP-006; o nome da mãe e o sobrenome de Jeff continuam propostas. Preserva os cargos e fatos de DEC-008 a DEC-011. Não aprova automaticamente retratos ou biografias.
 
@@ -41,7 +41,7 @@ DEC-004 foi reafirmada explicitamente pelo criador em 25/10/2026: Lucas e Jeff s
 | PROP-003 | PROPOSTA | Não informada | Famílias envolvidas em energia, tecnologia ou mineração. | Nenhuma substituição documentada |
 | PROP-004 | PROPOSTA | Não informada | Primeiro encontro aos 14 anos e cena de intimidação escolar. | Nenhuma substituição documentada |
 | PROP-005 | PROPOSTA | Não informada | Primeira missão “Um Dia Comum”. | Nenhuma substituição documentada |
-| PROP-006 | PARCIALMENTE APROVADA | 25/10/2026; atualização em 26/10/2026 | Augusto Montenegro aprovado como nome do pai em DEC-014. Helena Montenegro e sobrenome de Jeff permanecem propostas. | DEC-014 aprova apenas o nome do pai. |
+| PROP-006 | PARCIALMENTE APROVADA | 25/10/2026; atualização em 26/10/2026 | Augusto Montenegro aprovado como nome do pai em DEC-016. Helena Montenegro e sobrenome de Jeff permanecem propostas. | DEC-016 aprova apenas o nome do pai. |
 | PROP-007 | PROPOSTA | 25/10/2026 | Biografias, dinâmica familiar e cenas sugeridas; detalhes não fornecidos não são inventados. | Nenhuma substituição documentada. |
 
 ## PENDENTE — decisões críticas
@@ -79,3 +79,9 @@ A classificação individual das imagens está em `assets/concept-art/README.md`
 | DEC-015 | CANON — conceito artístico | 25/10/2026 | O conceito visual do pai de Jeff foi aprovado, bem como a prancha coletiva comparativa de cabeça, tronco e pernas. A designação não fixa alturas ou medidas não especificadas nem confirma automaticamente nomes propostos. | `docs/universe/canon-consolidado-v1.md`, seção 6 |
 
 **Nota:** aprovação do tratamento criativo não deve ser interpretada como aprovação automática de todas as falas, idades, nomes provisórios ou sistemas de gameplay. Os identificadores PROP e PEND anteriores continuam válidos até nova decisão específica.
+
+## DEC-017 — retrato oficial de Augusto Montenegro
+
+**CANON — referência visual aprovada em 26/10/2026.** O criador confirmou explicitamente o retrato `assets/concept-art/pai-de-jeff/pai_jeff_scratch_art_v01_candidata.png` como referência oficial do rosto, cabelo e traje de Augusto Montenegro, no enquadramento mostrado. Preservar o arquivo original; o sufixo histórico `candidata` não indica o status atual. Não aprova medidas, corpo inteiro, novas poses, vistas ocultas ou determinismo de geração. A aprovação de conceito/prancha coletiva em DEC-015 permanece válida e não é substituída por inferência.
+
+**Correção de identificador:** o registro do nome do pai, anteriormente inserido com DEC-014 em duplicidade, passa a DEC-016. DEC-014 permanece associado à consolidação editorial; conteúdo de ambas as decisões preservado.
