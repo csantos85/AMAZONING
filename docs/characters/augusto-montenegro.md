@@ -27,3 +27,7 @@ Escopo: rosto, cabelo e traje no enquadramento do retrato. A interpretação aba
 Novas vistas precisam de desenvolvimento e revisão, pois não se deduzem deterministicamente de um retrato. Não declarar frente, perfil, costas ou anatomia oculta já aprovados. Para garantia de identidade entre novas poses, criar e aprovar ativo mestre articulável seguindo as skills de direção de arte e movimento. A aprovação do retrato não demonstra reprodução determinística por geração de imagens.
 
 SHA-256 da referência: `9d671db4633a856495839debaec84685f2c70dc45c2e6201870924a6dea2cde8`.
+
+## Desenvolvimento 3D — não aprovado
+
+Primeiro bloco de volumes em `assets/3d/augusto/blockout-v01/`, com `.blend`, script e vistas de frente, perfil e três quartos. É base técnica esquemática, com divergências visíveis, não ativo mestre nem reprodução integral. Materiais, profundidade e proporções são provisórios; não alteram esta ficha ou a referência aprovada. Ver README da pasta para revisão e verificações.

@@ -1,0 +1,11 @@
+{
+  "blender": "4.3.2",
+  "status": "PROPOSTA - NAO APROVADA",
+  "reference_sha256": "9d671db4633a856495839debaec84685f2c70dc45c2e6201870924a6dea2cde8",
+  "files": {
+    "augusto_cabeca_blockout_v01.blend": "2ba9838fe950e2e9f2c3ee3cf50944f774596798b288bfb6e2f8fe6642e0a4f8",
+    "frente.png": "f70bbec6011a259a160538e3a5abff4928d53f1807d3e061dd059cf796aa48cb",
+    "perfil.png": "c39207a83b85d0808adffe70645435b1fc9a815abe7722c7748a38b083bf8dd8",
+    "tres-quartos.png": "1d1e1a87a9d7873836e18f9455bf49adecfabc1e86d39d5412a216d7de9e3b3e"
+  }
+}
