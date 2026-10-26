@@ -66,3 +66,12 @@ Estas entradas registram versões anteriores mencionadas em `docs/characters/jef
 | HIST-002 | SUPERADA | Não informada | Paleta vermelho-escuro de Jeff. | DEC-006: traje predominantemente azul/preto. |
 
 A classificação individual das imagens está em `assets/concept-art/README.md`. As propostas PROP-001 a PROP-007 continuam sem aprovação. A ficha `docs/characters/familia-de-jeff.md` reúne os fatos familiares e seus limites. Para entradas de 25/10/2026 desta atualização familiar, a data registra a decisão ou classificação explícita do criador nesta conversa, não um evento narrativo.
+
+## Consolidação editorial da pré-produção — 25/10/2026
+
+| ID | Status | Data documental | Conteúdo | Referência |
+|---|---|---|---|---|
+| DEC-014 | CANON — consolidação | 25/10/2026 | O criador aprovou a direção narrativa e os conceitos visuais desenvolvidos até este marco; a síntese aprovada está em `docs/universe/canon-consolidado-v1.md`. Mantêm-se abertas as lacunas ali discriminadas. | `docs/universe/canon-consolidado-v1.md` |
+| DEC-015 | CANON — conceito artístico | 25/10/2026 | O conceito visual do pai de Jeff foi aprovado, bem como a prancha coletiva comparativa de cabeça, tronco e pernas. A designação não fixa alturas ou medidas não especificadas nem confirma automaticamente nomes propostos. | `docs/universe/canon-consolidado-v1.md`, seção 6 |
+
+**Nota:** aprovação do tratamento criativo não deve ser interpretada como aprovação automática de todas as falas, idades, nomes provisórios ou sistemas de gameplay. Os identificadores PROP e PEND anteriores continuam válidos até nova decisão específica.
