@@ -17,7 +17,7 @@ Os cargos não definem, por inferência, renda ou classe econômica específica,
 - Nomes **Augusto e Helena Montenegro** para os pais e sobrenome de Jeff.
 - Biografias, dinâmica familiar e cenas sugeridas.
 
-Esses elementos não identificam oficialmente os personagens. Detalhes de biografias ou cenas não fornecidos nesta decisão não são reconstruídos nem inventados aqui. As propostas anteriores de classes sociais, escola e atividades econômicas continuam propostas (PROP-001 a PROP-004).
+Os nomes acima identificam oficialmente os personagens. Os demais detalhes dessa seção permanecem propostos. Detalhes de biografias ou cenas não fornecidos nesta decisão não são reconstruídos nem inventados aqui. As propostas anteriores de classes sociais, escola e atividades econômicas continuam propostas (PROP-001 a PROP-004).
 
 ## PENDENTE — sem definição canônica
 
@@ -32,3 +32,8 @@ Esses elementos não identificam oficialmente os personagens. Detalhes de biogra
 - `docs/characters/lucas-mazweng.md`: preserva o cânone de Lucas e o caráter indefinido dos detalhes de sua linhagem.
 - `docs/universe/narrative-bible.md`: os mistérios dos super-humanos continuam sem explicação definitiva.
 - `assets/concept-art/README.md`: nenhuma arte é alterada por esta atualização familiar.
+
+## CANON — identificação nominal (DEC-016)
+- **Jeff Montenegro**: filho.
+- **Augusto Montenegro**: pai, senador e ex-governador.
+- **Helena Montenegro**: mãe, jurista e ex-secretária de Justiça.
