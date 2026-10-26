@@ -1,4 +1,4 @@
-# JEFF — A BRASA
+# JEFF MONTENEGRO — A BRASA
 
 **Status: CANON — atualizações explícitas mais recentes prevalecem.**
 
@@ -28,7 +28,7 @@ A família de Jeff possui influência política relevante no país fictício. Se
 
 Isso não estabelece como o pai obteve esse conhecimento, nem que a mãe ou Jeff compartilhem dele. Consulte `docs/characters/familia-de-jeff.md` para a separação entre fatos, propostas e pendências.
 
-**PROPOSTA:** nomes Augusto e Helena Montenegro, sobrenome de Jeff, biografias, dinâmica familiar e cenas sugeridas. Não incorporar esses elementos à identificação oficial de Jeff sem aprovação.
+**CANON:** nomes Jeff Montenegro, Augusto Montenegro (pai) e Helena Montenegro (mãe), conforme DEC-016. **PROPOSTA:** detalhes adicionais de biografia, dinâmica familiar e cenas, sujeitos à revisão de roteiro. Não incorporar esses elementos à identificação oficial de Jeff sem aprovação.
 
 **PENDENTE:** Projeto Véu, modo de acesso aos segredos, operações governamentais e vínculo com a linhagem de Lucas.
 
