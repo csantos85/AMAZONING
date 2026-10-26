@@ -75,3 +75,5 @@ A classificação individual das imagens está em `assets/concept-art/README.md`
 | DEC-015 | CANON — conceito artístico | 25/10/2026 | O conceito visual do pai de Jeff foi aprovado, bem como a prancha coletiva comparativa de cabeça, tronco e pernas. A designação não fixa alturas ou medidas não especificadas nem confirma automaticamente nomes propostos. | `docs/universe/canon-consolidado-v1.md`, seção 6 |
 
 **Nota:** aprovação do tratamento criativo não deve ser interpretada como aprovação automática de todas as falas, idades, nomes provisórios ou sistemas de gameplay. Os identificadores PROP e PEND anteriores continuam válidos até nova decisão específica.
+
+| DEC-016 | CANON — nomes | 25/10/2026 | Por confirmação explícita do criador após a aprovação geral, os nomes são **Jeff Montenegro**, **Augusto Montenegro** (pai) e **Helena Montenegro** (mãe). A entrada PROP-006 fica SUPERADA no que diz respeito a esses nomes. | PROP-006 (somente os nomes) |
