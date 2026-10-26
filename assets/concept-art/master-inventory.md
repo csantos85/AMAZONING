@@ -9,7 +9,7 @@ Todos os caminhos são relativos à raiz do repositório AMAZONING. Este invent�
 | Jeff / A Brasa | `docs/characters/jeff-a-brasa.md` | `assets/concept-art/jeff/jeff_a_brasa_prancha_v2_loiro.png` — v2 | Designada referência visual principal pelo criador em 25/10/2026; DEC-007. | **DISPONÍVEL**, sincronizado de `origin/main`. | Designação confirmada; exame visual realizado. Preservar a ficha. A designação não resolve modelo casual ou hexadecimais ainda pendentes. |
 | Lucas / Mazweng | `docs/characters/lucas-mazweng.md` | `assets/concept-art/lucas/mazweng_conceito_de_personagem.png` | Designação explícita do criador nesta conversa; DEC-013. | **DISPONÍVEL**, aberta e examinada. | Imagem-mestra do uniforme, incluindo máscara e figurino, para estudos de movimento. Civil e novas candidatas não estão aprovados por esta designação. |
 
-A ficha familiar `docs/characters/familia-de-jeff.md` não fornece fichas visuais individuais ou imagens-mestras dos pais. Se eles forem retratados, esses requisitos deverão ser definidos; nomes e aparência não devem ser inferidos.
+A ficha familiar `docs/characters/familia-de-jeff.md` não fornece fichas visuais individuais dos pais. O criador forneceu e autorizou nesta conversa o painel “Pai de Jeff” de uma prancha coletiva como referência para o retrato scratch art. O anexo original ainda não tem cópia local disponível nesta execução; não há designação de ativo mestre reproduzível. Isso não autoriza inferir nome, idade exata ou biografia. A mãe permanece sem referência visual designada.
 
 ## Histórico de versões e substituições
 
@@ -21,6 +21,12 @@ A ficha familiar `docs/characters/familia-de-jeff.md` não fornece fichas visuai
 | Lucas | `assets/concept-art/lucas/mazweng_conceito_de_personagem.png` — versão não informada | **IMAGEM-MESTRA DO UNIFORME DESIGNADA** | Confirmação explícita do criador; DEC-013. Nenhuma mestra anterior substituída. | Data individual não informada. | Uniforme, máscara e figurino para este estudo; preserva ficha e não aprova variante civil nem novas gerações. |
 
 ## Registro de futuras versões
+
+### Estudos candidatos do pai de Jeff
+
+| Arquivo | Status | Fonte e escopo | Aprovação |
+|---|---|---|---|
+| `assets/concept-art/pai-de-jeff/pai_jeff_scratch_art_v01_candidata.png` | CANDIDATA — NÃO APROVADA | Retrato baseado no painel do pai autorizado pelo criador na conversa; tradução para scratch art, sem validação de identidade integral. Ver relatório na mesma pasta | Não recebida; não designa nova mestra |
 
 ### Estudos candidatos de Lucas
 
