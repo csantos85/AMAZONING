@@ -22,6 +22,10 @@ Os IDs são identificadores documentais estáveis, não uma sequência cronológ
 | DEC-011 | CANON | 25/10/2026 | O pai de Jeff conhece parte importante da história oculta dos super-humanos. Não define acesso, operações ou vínculo com Lucas. | Nenhuma substituição documentada. |
 | DEC-012 | CANON — identidade visual | 25/10/2026 | Por designação explícita do criador, `assets/branding/amazoning_logo_oficial.png` é o logotipo oficial do universo AMAZONING, para artbooks, documentos, apresentações e materiais promocionais. Preservar tipografia, proporções, formas das letras e detalhe vermelho do A. Arquivo recuperado de `origin/main` e examinado visualmente; aplicação a novos materiais ainda não realizada. Guia: `assets/branding/README.md`. | Nenhuma substituição documentada; logos em pranchas não são alternativas oficiais. |
 
+## DEC-014 — nome do pai de Jeff
+
+**CANON — 26/10/2026.** Por instrução explícita do criador nesta conversa, o nome do pai de Jeff é **Augusto Montenegro**. Aprova a parte correspondente de PROP-006; o nome da mãe e o sobrenome de Jeff continuam propostas. Preserva os cargos e fatos de DEC-008 a DEC-011. Não aprova automaticamente retratos ou biografias.
+
 ## DEC-013 — imagem-mestra do uniforme de Lucas
 
 **CANON — designação de referência; data individual não informada.** O criador confirmou explicitamente nesta conversa: “Sim, usar essa imagem como mestra do uniforme”, em resposta à designação de `assets/concept-art/lucas/mazweng_conceito_de_personagem.png`, incluindo máscara e figurino, para este estudo. Não altera a ficha, não designa a imagem civil e não aprova resultados gerados.
@@ -37,7 +41,7 @@ DEC-004 foi reafirmada explicitamente pelo criador em 25/10/2026: Lucas e Jeff s
 | PROP-003 | PROPOSTA | Não informada | Famílias envolvidas em energia, tecnologia ou mineração. | Nenhuma substituição documentada |
 | PROP-004 | PROPOSTA | Não informada | Primeiro encontro aos 14 anos e cena de intimidação escolar. | Nenhuma substituição documentada |
 | PROP-005 | PROPOSTA | Não informada | Primeira missão “Um Dia Comum”. | Nenhuma substituição documentada |
-| PROP-006 | PROPOSTA | 25/10/2026 | Nomes Augusto e Helena Montenegro para os pais e sobrenome de Jeff; não são identificações oficiais aprovadas. | Nenhuma substituição documentada. |
+| PROP-006 | PARCIALMENTE APROVADA | 25/10/2026; atualização em 26/10/2026 | Augusto Montenegro aprovado como nome do pai em DEC-014. Helena Montenegro e sobrenome de Jeff permanecem propostas. | DEC-014 aprova apenas o nome do pai. |
 | PROP-007 | PROPOSTA | 25/10/2026 | Biografias, dinâmica familiar e cenas sugeridas; detalhes não fornecidos não são inventados. | Nenhuma substituição documentada. |
 
 ## PENDENTE — decisões críticas

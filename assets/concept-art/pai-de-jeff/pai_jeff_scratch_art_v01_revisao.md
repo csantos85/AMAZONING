@@ -21,3 +21,7 @@ Operação: geração de retrato em scratch art usando o painel autorizado, com 
 | Paleta | Preto/cinza, branco e vinho | Direção preservada, com pele quente e pin dourado; não é scratchboard estritamente monocromático |
 
 Resultado aberto pela ferramenta e examinado. A aparência lida da referência é base para este estudo, não aprovação automática de medidas, novos ângulos ou desta geração. A saída não deve ser apresentada como identidade integral validada. Referência original do anexo e aprovação desta candidata ainda precisam ser preservadas/registradas caso se deseje estabelecer um ativo mestre reproduzível.
+
+## Atualização documental — 26/10/2026
+
+O criador aprovou **Augusto Montenegro** como nome do pai de Jeff (DEC-014). A observação acima sobre nome indefinido descreve o estado no momento da geração. A aprovação do nome não aprova este retrato nem modifica seus limites de fidelidade.
