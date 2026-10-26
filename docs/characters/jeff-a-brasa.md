@@ -42,9 +42,11 @@ Anime/mangá moderno, traço limpo, cel-shading, estética urbana/techwear.
 
 Por decisão explícita do criador (DEC-007, em `docs/decisions/decision-log.md`), a referência visual principal é `assets/concept-art/jeff/jeff_a_brasa_prancha_v2_loiro.png`.
 
-**Disponibilidade: arquivo ausente no checkout no momento deste registro; comparação visual PENDENTE.** A designação não permite inferir características que não estejam documentadas. Permanecem cabelo loiro, olhos castanho-escuros, pele oliva, identidade azul/preto e transformação Blue Fire, além dos demais detalhes já aprovados nesta ficha. Nenhum outro detalhe físico ou de figurino foi alterado. Eventuais divergências da v2 devem ser sinalizadas ao criador antes de alterar esta ficha.
+**Disponibilidade: arquivo disponível no checkout no momento deste registro; revisão de divergências PENDENTE.** A designação não permite inferir características que não estejam documentadas. Permanecem cabelo loiro, olhos castanho-escuros, pele oliva, identidade azul/preto e transformação Blue Fire, além dos demais detalhes já aprovados nesta ficha. Nenhum outro detalhe físico ou de figurino foi alterado. Eventuais divergências da v2 devem ser sinalizadas ao criador antes de alterar esta ficha.
 
 ## Nota de revisão de referência
 Pranchas antigas podem mostrar cabelo preto/ruivo e vermelho. **Não seguir esses traços.** A versão aprovada mais recente é loira e azulada; a ficha textual prevalece em conflitos.
 
 A prancha `assets/concept-art/jeff/jeff_a_brasa_referencia_mais_recente.png` está **SUPERADA** como referência de produção e deve ser preservada apenas para histórico. Consulte o inventário em `assets/concept-art/README.md`.
+
+Revisão visual da v2: as vistas normais apresentam cabelo loiro e identidade azul/preto; o painel principal de Blue Fire apresenta cabelo escuro/azulado. Essa representação não altera a base loira documentada e requer esclarecimento do criador. Os códigos de paleta impressos e o modelo casual não são automaticamente aprovados.
